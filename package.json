@@ -1,28 +1,30 @@
 {
-    "name": "better-random-words",
-    "version": "1.0.0",
-    "description": "Generate random words from the English dictionary",
-    "main": "index.js",
-    "types": "index.d.ts",
-    "scripts": {
-      "test": "mocha tests/test.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/imkrishnamadala/better-random-words"
-    },
-    "keywords": [
-      "random",
-      "words",
-      "words",
-      "word",
-      "generator",
-      "sample",
-      "text"
-    ],
-    "author": "Krishna Madala",
-    "license": "MIT",
-    "devDependencies": {
-      "mocha": "^9.1.3"
-    }
-  }
+  "name": "better-random-words",
+  "version": "1.0.0",
+  "description": "Generate words from the english dictionary",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImKrishnaMadala/better-random-words.git"
+  },
+  "keywords": [
+    "random",
+    "words",
+    "word",
+    "generate",
+    "text"
+  ],
+  "author": "Krishna Madala",
+  "license": "MIT ",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/ImKrishnaMadala/better-random-words/issues"
+  },
+  "homepage": "https://github.com/ImKrishnaMadala/better-random-words#readme"
+}
