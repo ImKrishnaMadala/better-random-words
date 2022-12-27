@@ -1,0 +1,28 @@
+{
+    "name": "better-random-words",
+    "version": "1.0.0",
+    "description": "Generate random words from the English dictionary",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "scripts": {
+      "test": "mocha tests/test.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/imkrishnamadala/better-random-words"
+    },
+    "keywords": [
+      "random",
+      "words",
+      "words",
+      "word",
+      "generator",
+      "sample",
+      "text"
+    ],
+    "author": "Krishna Madala",
+    "license": "MIT",
+    "devDependencies": {
+      "mocha": "^9.1.3"
+    }
+  }
