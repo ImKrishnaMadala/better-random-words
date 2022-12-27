@@ -12,16 +12,16 @@ Examples:
     var randomWords = require('random-words');
 
     console.log(randomWords());
-    army
+    post
 
-    console.log(randomWords(5));
-    ['army', 'beautiful', 'became', 'if', 'actually']
+    console.log(randomWords(3));
+    ['post', 'ranch', 'became', 'stove', 'stable']
 
     console.log(randomWords({ min: 3, max: 10 }));
-    ['became', 'arrow', 'article', 'therefore']
+     ['post', 'ranch', 'became', 'stove', 'stable']
 
     console.log(randomWords({ exactly: 2 }));
-    ['beside', 'between']
+    ['apple', 'banana']
 
     console.log(randomWords({ exactly: 5, join: ' ' }))
     'army beautiful became if exactly'

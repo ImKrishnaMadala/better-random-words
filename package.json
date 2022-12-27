@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/ImKrishnaMadala/better-random-words/issues"
   },
-  "homepage": "https://github.com/ImKrishnaMadala/better-random-words#readme"
+  "homepage": "https://github.com/ImKrishnaMadala/better-random-words#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
 }
